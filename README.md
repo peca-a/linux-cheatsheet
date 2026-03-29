@@ -20,7 +20,7 @@ This repository contains my notes while learning Linux (Operating Systems course
 * Redirection (`>`, `>>`)
 * rsync (basic usage)
 
------------------------------------------------------------------------------------g
+-----------------------------------------------------------------------------------
 
 ## 🎯 Goal
 

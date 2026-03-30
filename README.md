@@ -22,6 +22,21 @@ This repository contains my notes while learning Linux (Operating Systems course
 
 -----------------------------------------------------------------------------------
 
+* Day 2 – Permissions, links, sed, alias, tar, disk usage
+  
+-----------------------------------------------------------------------------------
+
+## 📁 Topics Covered
+
+* Permissions (chmod, r/w/x)
+* Links (soft, hard)
+* Text processing (sed basics)
+* Archives (tar)
+* Disk usage (du, df)
+* Aliases
+* 
+-----------------------------------------------------------------------------------
+
 ## 🎯 Goal
 
 Learn Linux step by step and build practical skills for development and system usage.

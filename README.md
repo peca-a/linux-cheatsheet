@@ -34,7 +34,23 @@ This repository contains my notes while learning Linux (Operating Systems course
 * Archives (tar)
 * Disk usage (du, df)
 * Aliases
-* 
+  
+-----------------------------------------------------------------------------------
+
+* Day 3 – Log Analyzer project (grep, sort, pipes, rsync)
+
+-----------------------------------------------------------------------------------
+
+📁 Topics Covered
+
+* Working with logs
+* Filtering (grep)
+* Pipes (|)
+* Sorting (sort)
+* Selecting output (tail)
+* Redirection (>)
+* Backup (rsync)
+
 -----------------------------------------------------------------------------------
 
 ## 🎯 Goal
